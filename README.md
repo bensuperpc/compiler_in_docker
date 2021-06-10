@@ -31,3 +31,10 @@ All = AMD64, I386, ARMv8, ARMv7, ARMv6, s390x, ppc64le
 |:-------:|:--------:|:--------:|:-----:|
 | brainfuck | All | All | [![docker-brainfuck](https://github.com/bensuperpc/docker-brainfuck/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-brainfuck/actions/workflows/main.yml) |
 | brainfuck-tritium | All | All | [![docker-brainfuck-tritium](https://github.com/bensuperpc/docker-brainfuck-tritium/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-brainfuck-tritium/actions/workflows/main.yml) |
+
+## Whitespace Compiler
+
+| Compiler name | Host arch  | Target arch | Workflow status  |
+|:-------:|:--------:|:--------:|:-----:|
+| whitespace | AMD64, I386 | AMD64, I386 | [![docker-whitespace](https://github.com/bensuperpc/docker-whitespace/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-whitespace/actions/workflows/main.yml) |
+
