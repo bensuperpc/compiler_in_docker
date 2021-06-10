@@ -22,5 +22,7 @@ List of my docker image with compiler
 | 1 | 2 | 3 |
 | 1 | 2 | 3 |
 
+All = AMD64, I386, ARMv8, ARMv7, ARMv6, s390x, ppc64le
+
 
 
