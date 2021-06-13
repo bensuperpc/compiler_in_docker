@@ -16,7 +16,7 @@ List of my docker image with compiler
 | subc | AMD64 | AMD64 | C99 | [![docker-subc](https://github.com/bensuperpc/docker-subc/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-subc/actions/workflows/main.yml) |
 | ShivyC | AMD64 | AMD64 |  C99 (WIP) | [![docker-shivyc](https://github.com/bensuperpc/docker-ShivyC/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-ShivyC/actions/workflows/main.yml)|
 | rgbds | All* | Gameboy | ASM | [![docker-rgbds](https://github.com/bensuperpc/docker-rgbds/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-rgbds/actions/workflows/main.yml) |
-| Ndless | AMD64 | Ti-NSpire | C11 | [![docker-ndless](https://github.com/bensuperpc/Docker-Ndless/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/Docker-Ndless/actions/workflows/main.yml) |
+| Ndless (gcc) | AMD64 | Ti-NSpire | C11 | [![docker-ndless](https://github.com/bensuperpc/Docker-Ndless/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/Docker-Ndless/actions/workflows/main.yml) |
 | chibicc | AMD64 | AMD64 | C99 (WIP) | [![docker-chibicc](https://github.com/bensuperpc/docker-chibicc/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-chibicc/actions/workflows/main.yml) |
 | MazuCC | AMD64 | AMD64 | C99 | [![docker-mzcc](https://github.com/bensuperpc/docker-MazuCC/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-MazuCC/actions/workflows/main.yml) |
 | sjasmplus | All* | Z80 | ASM | [![docker-sjasmplus](https://github.com/bensuperpc/docker-sjasmplus/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-sjasmplus/actions/workflows/main.yml) | 
