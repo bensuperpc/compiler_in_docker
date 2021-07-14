@@ -10,7 +10,7 @@ List of my docker image with compiler
 | open64 | AMD64 | AMD64 | C++03 and C99 | [![docker-open64](https://github.com/bensuperpc/docker-open64/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-open64/actions/workflows/main.yml) |
 | ack | AMD64, I386 | I386 | C99 | [![docker-ack](https://github.com/bensuperpc/docker-ack/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-ack/actions/workflows/main.yml) |
 | clang | AMD64 | AMD64 | C++20 and C17 | [![docker-clang](https://github.com/bensuperpc/docker-clang/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-clang/actions/workflows/main.yml) |
-| lacc | AMD64, ARMv8, I386 | AMD64, ARMv8, I386 | C99 | [![docker-lacc](https://github.com/bensuperpc/docker-lacc/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-lacc/actions/workflows/main.yml) |
+| lacc | AMD64, I386 | AMD64, I386 | C99 | [![docker-lacc](https://github.com/bensuperpc/docker-lacc/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-lacc/actions/workflows/main.yml) |
 | tendra | AMD64 | I386 | C89/C99 | [![docker-tendra](https://github.com/bensuperpc/docker-tendra/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-tendra/actions/workflows/main.yml) |
 | cproc | AMD64, ARMv8 | AMD64, ARMv8 | C11 | [![docker-cproc](https://github.com/bensuperpc/docker-cproc/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-cproc/actions/workflows/main.yml) |
 | subc | AMD64 | AMD64 | C99 | [![docker-subc](https://github.com/bensuperpc/docker-subc/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-subc/actions/workflows/main.yml) |
